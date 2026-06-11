@@ -331,3 +331,5 @@ Developed as an AI-based Customer Analytics and Intelligence Platform project us
 # 📄 License
 
 This project is intended for educational, research, and portfolio purposes.
+# Demo Link
+https://ai-customer-intelligence-platform-3.onrender.com
